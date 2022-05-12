@@ -2,8 +2,6 @@
 
 ## Installation
 
-There are multiple ways to install Cleopatra.
-
 <br>
 <br>
 
