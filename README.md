@@ -16,7 +16,7 @@
 
 _Clone to your machine_
 
-`git clone https://github.com/uilibrary/TailwindCss-pug-starter-kit.git`
+`git clone https://github.com/uilibrary/TailwindCss-gulp-starter-kit.git`
 
 <br>
 <br>
