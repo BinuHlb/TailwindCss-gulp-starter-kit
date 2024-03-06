@@ -552,11 +552,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-scale-y: 1;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
-.scale-90{
-  --tw-scale-x: .9;
-  --tw-scale-y: .9;
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
-}
 .transform{
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
 }
@@ -654,9 +649,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 .stroke-gray-200{
   stroke: #e5e7eb;
-}
-.p-6{
-  padding: 1.5rem;
 }
 .p-12{
   padding: 3rem;
@@ -846,9 +838,6 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 .duration-75{
   transition-duration: 75ms;
-}
-.duration-300{
-  transition-duration: 300ms;
 }
 .ease-in-out{
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -1286,12 +1275,6 @@ p{
   }
   .sm\:leading-10{
     line-height: 2.5rem;
-  }
-}
-
-@media (min-width: 768px){
-  .md\:mt-16{
-    margin-top: 4rem;
   }
 }
 
